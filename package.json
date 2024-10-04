@@ -1,16 +1,16 @@
 {
-  "name": "raganork-md",
+  "name": "ai-bot-xmd",
   "version": "5.0.0",
   "description": "A light weight WhatsApp bot.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": "pm2 start . --attach --name AI-BOT-XMD"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/TcronebHackx-MD/AI-UPDATE-XMD.git"
   },
   "overrides": {
-    "raganork-bot": {
+    "ai-bot": {
       "youtubei.js": "^2.5.3"
     }
   },
@@ -19,10 +19,10 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "TcronebHackx-MD",
+  "developer": "@TcronebHackx-Md",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/TcronebHackx-MD/AI-UPDATE-XMD#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
     "@adiwajshing/keyed-db": "0.2.4",
